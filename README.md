@@ -7,4 +7,4 @@ Repositório do MVP da Sprint 4 da Pós-Graduação em Engenharia de Software na
 - [MVP Canvas e respectivo Lean Inception](https://miro.com/app/board/uXjVKPxwoN8=/?share_link_id=585544587618) criado com a ferramenta Miro.
 - [Backlog do produto e backlog da Sprint](https://www.google.com) criados com a ferramenta JIRA.
 - [Protótipos de interface da primeira sprint](https://www.google.com) criado com a ferramenta Figma.
-- [Vídeo de apresentação do projeto](https://www.google.com) publicado no YouTube.
+- [Vídeo de apresentação do projeto](https://www.google.com) disponibilizado no presente repositório.
