@@ -8,4 +8,4 @@ Repositório do MVP da Sprint 4 da Pós-Graduação em Engenharia de Software na
 - [Backlog do produto](https://github.com/malvesealves/mvp-sprint-4-gestao-agil/blob/main/product-backlog.pdf) criados com a ferramenta JIRA.
 - [Backlog da Sprint](https://github.com/malvesealves/mvp-sprint-4-gestao-agil/blob/main/sprint-backlog.pdf) criado com a ferramenta JIRA.
 - [Protótipos de interface da primeira sprint](https://github.com/malvesealves/mvp-sprint-4-gestao-agil/tree/main/wireframes) criado com a ferramenta Figma.
-- [Vídeo de apresentação do projeto](https://www.google.com) disponibilizado no presente repositório.
+- [Vídeo de apresentação do projeto](https://youtu.be/JKbn-Fz9HKQ) disponibilizado no presente repositório.
